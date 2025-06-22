@@ -1,0 +1,2 @@
+INFO     custom_logger:test_login.py:112 ************ test_login_positive2 STARTED ************
+INFO     custom_logger:test_login.py:130 ************ test_login_positive2 PASSED ************

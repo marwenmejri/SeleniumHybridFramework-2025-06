@@ -1,0 +1,22 @@
+[
+    {
+        "username": "student",
+        "password": "Password123",
+        "exp": "Pass"
+    },
+    {
+        "username": "student",
+        "password": "admin",
+        "exp": "Fail"
+    },
+    {
+        "username": "student",
+        "password": "Password123",
+        "exp": "Pass"
+    },
+    {
+        "username": "adm@yourstore.com",
+        "password": "adm",
+        "exp": "Fail"
+    }
+]

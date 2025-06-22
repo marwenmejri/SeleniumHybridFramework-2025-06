@@ -1,0 +1,2 @@
+INFO     custom_logger:test_login.py:65 ************ test_negative_username STARTED ************
+INFO     custom_logger:test_login.py:79 ************ test_negative_username PASSED ************

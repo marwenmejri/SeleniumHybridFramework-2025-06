@@ -1,0 +1,2 @@
+INFO     custom_logger:test_login.py:36 ************ test_login_positive STARTED ************
+INFO     custom_logger:test_login.py:54 ************ test_login_positive PASSED ************
