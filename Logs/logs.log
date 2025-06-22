@@ -149,6 +149,4 @@
 06-22-2025 11:22:45 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title PASSED ************
 06-22-2025 11:22:45 AM - custom_logger - test_login.py | INFO : ************ test_verify_login_page_title2 PASSED ************
 06-22-2025 11:22:51 AM - custom_logger - test_login.py | INFO : ************ test_negative_username PASSED ************
-06-22-2025 11:22:51 AM - custom_logger - test_login.py | INFO : ************ test_negative_username2 PASSED ************
-06-22-2025 11:22:55 AM - custom_logger - test_login.py | INFO : ************ test_login_positive PASSED ************
-06-22-2025 11:22:55 AM - custom_logger - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+
